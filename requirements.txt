@@ -1,0 +1,5 @@
+numpy>=2.1
+scikit-learn>=1.6
+joblib>=1.4
+torch>=2.7
+pufbx==0.1.0

@@ -1,0 +1,21 @@
+# Local environments and generated Python files
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Training data, annotations, predictions and model artifacts
+/data/
+/outputs/
+*.bvh
+*.fbx
+*.wav
+*.pkl
+*.pt
+*.pth
+*.joblib
+
+# Local editor settings
+.vscode/
+.idea/
